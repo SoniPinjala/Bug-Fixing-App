@@ -1,0 +1,17 @@
+body{
+    background-image: url("bg1.png");
+	background-repeat: no-repeat; 
+    background-size: auto;
+}
+
+.Login{
+	width: 350px;
+	padding: 40px 40px;
+	margin-top: 200px;
+	margin-left: 960px;
+	display: inline-block;
+	text-align: center;
+	background: #fff;
+	border: 2px solid #fff;
+	border-radius: 15px;
+}
